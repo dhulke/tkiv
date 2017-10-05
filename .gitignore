@@ -1,0 +1,6 @@
+MANIFEST
+build/
+dist/
+tkiv.egg-info/
+*.pyc
+.idea/
